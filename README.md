@@ -1,4 +1,4 @@
-# Contiki-based-multithreaded-application
+# IoT-Contiki-based-multithreaded-application
 Using 3 threads for handling 3 resources in the Contiki OS.
 
 Based on the Coap-rest client example, but also utilizing the existing optional mt library of Contiki OS.
