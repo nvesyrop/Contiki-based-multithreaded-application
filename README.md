@@ -5,4 +5,4 @@ Based on the Coap-rest client example, but also utilizing the existing optional 
 
 This is a simple application that can be employed in the Cooja enviroment. 
 It enables the definition and handling of 3 threads that have access to 3 different resources,
-using RESTful WS calls (using COAP).
+through RESTful WS calls (using the CoAP protocol).
